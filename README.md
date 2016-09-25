@@ -1,7 +1,7 @@
 # Online-Auction-MVC
 Online Auction is a online platform for auction and this project is made using PHP 5, MySQL, Javascript, JQuery, Bootstrap and HTML
-
-README FILE
+<pre>
+README FILE:
 
 ONLINE AUCTION SYSTEM using PHP, by <a href="https://github.com/vinitKr">VINIT KUMAR</a>
 
@@ -66,3 +66,4 @@ IV. SOFTWARE/PLUG-IN DOWNLOADS
 ¥ Macromedia Dreamweaver, Aptana Studio, Notepad.
 ¥ Library: Bootstrap, PHP, javaScript, JQuery.
 
+</pre>
